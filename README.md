@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosValencia01
-- 👀 I’m interested in Angular, JavaScript, HTML and CSS
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in React, JavaScript, HTML, CSS, Mongo, Node and Express.
+- 🌱 I’m currently learning React and NextJS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Send an email to jocavalenciava@ittepic.edu.mx
 
